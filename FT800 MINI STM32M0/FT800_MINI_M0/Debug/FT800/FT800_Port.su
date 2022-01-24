@@ -1,0 +1,6 @@
+FT800_Port.c:7:6:FT800_InitPins	8	static,ignoring_inline_asm
+FT800_Port.c:16:6:F800_InitSPI	8	static,ignoring_inline_asm
+FT800_Port.c:26:6:F800_InitInterrupt	8	static,ignoring_inline_asm
+FT800_Port.c:35:9:SPI_xchg	16	static
+FT800_Port.c:48:6:FT800_WriteSPI	16	static
+FT800_Port.c:57:9:FT800_ReadSPI	8	static

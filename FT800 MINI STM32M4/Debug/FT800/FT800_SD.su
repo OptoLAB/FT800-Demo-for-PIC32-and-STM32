@@ -1,0 +1,3 @@
+FT800_SD.c:46:9:FT800_loadWAVfromSD	4208	static
+FT800_SD.c:132:9:FT800_loadBMPfromSD	4200	static
+FT800_SD.c:197:9:FT800_loadJPGfromSD	4192	static

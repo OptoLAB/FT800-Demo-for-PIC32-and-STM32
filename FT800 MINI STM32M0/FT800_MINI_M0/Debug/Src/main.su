@@ -1,0 +1,8 @@
+main.c:159:9:getNote	24	static
+main.c:184:5:main	112	static
+main.c:801:6:SystemClock_Config	80	static
+main.c:837:13:MX_SPI1_Init	8	static
+main.c:877:13:MX_SPI2_Init	8	static
+main.c:917:13:MX_GPIO_Init	56	static
+main.c:970:6:HAL_GPIO_EXTI_Callback	16	static,ignoring_inline_asm
+main.c:984:6:Error_Handler	8	static

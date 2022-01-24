@@ -1,0 +1,9 @@
+FT800_Audio.c:8:6:FT800_setSoundVolume	8	static
+FT800_Audio.c:18:6:FT800_setSoundEffect	8	static
+FT800_Audio.c:27:6:FT800_playSound	8	static
+FT800_Audio.c:36:9:FT800_isSoundPlaying	8	static
+FT800_Audio.c:45:6:FT800_setPlaybackVolume	8	static
+FT800_Audio.c:54:6:FT800_configurePlayback	16	static
+FT800_Audio.c:67:6:FT800_playPlayback	8	static
+FT800_Audio.c:76:9:FT800_isPlaybackPlaying	8	static
+FT800_Audio.c:85:10:FT800_getPlaybackLocation	8	static
